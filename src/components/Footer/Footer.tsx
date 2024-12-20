@@ -11,7 +11,7 @@ export default function Footer() {
     { Icon: PinIcon, url: 'https://linkedin.com', color: 'text-[#1E1E1E]' },
   ];
   const posts = [
-    { title: 'Is fastfood good for your body?', date: 'February 28, 2022', image: '/Blog-details/Wings.png' },
+    { title: 'Is fastfood good for your body?', date: 'February 28, 2022', image: '/Blog-details/Wings.png' className="w-10 h-10" },
     { title: 'Change your food habit With organic food', date: 'February 28, 2022', image: '/Blog-details/Wings.png' },
     { title: 'Do you like fastfood for your life?', date: 'February 28, 2022', image: '/Blog-details/Wings.png' },
   ];
