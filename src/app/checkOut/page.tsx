@@ -151,7 +151,7 @@ function Checkout() {
         <div className='border rounded-[6px] bg-white mt-10'>
           <div className="space-y-6 ml-10 mt-8">
             <div className="flex items-center space-x-4">
-              <Image src="/Checkout/Chicken-tikka.png" alt="Chicken Tikka" height={20} width={60} />
+              <Image src="/CheckOut/Chicken-tikka.png" alt="Chicken Tikka" height={20} width={60} />
               <div>
                 <p className='text-[#333333] font-bold'>Chicken Tikka Kabab</p>
                 <p className='text-[#4F4F4F] font-normal'>150 gm net</p>
@@ -160,7 +160,7 @@ function Checkout() {
             </div>
 
             <div className="flex items-center space-x-4">
-              <Image src="/Checkout/Chicken-tikka.png" alt="Chicken Tikka" height={20} width={60} />
+              <Image src="/CheckOut/Chicken-tikka.png" alt="Chicken Tikka" height={20} width={60} />
               <div>
                 <p className='text-[#333333] font-bold'>Chicken Tikka Kabab</p>
                 <p className='text-[#4F4F4F] font-normal'>150 gm net</p>
@@ -169,7 +169,7 @@ function Checkout() {
             </div>
 
             <div className="flex items-center space-x-4">
-              <Image src="/Checkout/Chicken-tikka.png" alt="Chicken Tikka" height={20} width={60} />
+              <Image src="/CheckOut/Chicken-tikka.png" alt="Chicken Tikka" height={20} width={60} />
               <div>
                 <p className='text-[#333333] font-bold'>Chicken Tikka Kabab</p>
                 <p className='text-[#4F4F4F] font-normal'>150 gm net</p>
